@@ -4,3 +4,4 @@ formation of a public limited company
 --product developmet launch
 --Hiring and froming HR, admini, purchase depts
 --Administrative dept purchases office stationaries, Purchase dept office rqipemtns
+We have developed an MVP for DEMO
