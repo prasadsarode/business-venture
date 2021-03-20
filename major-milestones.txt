@@ -1,2 +1,4 @@
 formation of a public limited company
 --Core team formed CEO, VP, CTO 16 th july
+--Hiring and forming development team
+--Product development process launch
